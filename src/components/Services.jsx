@@ -50,7 +50,7 @@ const Service = () => {
   return (
     <section className="industries-section">
       <div className="about-button">
-        <p>About Us</p>
+        <p>Services</p>
       </div>
       <h2 className="industries-title">Industries We Serve</h2>
       <div className="industries-grid">

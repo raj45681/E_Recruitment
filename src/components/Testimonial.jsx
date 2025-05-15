@@ -49,14 +49,7 @@ function Testimonials() {
             </div>
           ))}
         </div>
-        <div className="arrow-buttons">
-          <button>
-            <i class="fa-solid fa-less-than"></i>
-          </button>
-          <button>
-            <i className="fa-solid fa-greater-than"></i>
-          </button>
-        </div>
+        
       </section>
     </>
   );
